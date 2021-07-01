@@ -1,0 +1,66 @@
+body {
+  background-color: #EA8685;
+  font-family: 'Itim', cursive;
+}
+
+.header-rv {
+  background-color: #192CA5;
+  height: 25px;
+  margin-top: 9.25px;
+  margin-right: 70px;
+  position: relative;
+  border-radius: 100px;
+}
+
+.headheader {
+  background-color: #FFFFFF;
+  width: 90%;
+  margin: 0 auto;
+  padding: 30px;
+  margin-top: 20px;
+  padding-top: -41.5px;
+  border-radius: 50px;
+}
+
+.stationeryaccepted {
+  font-size: 23px;
+}
+
+.link1d {
+  color: #323232;
+}
+
+.link1d:hover {
+  color: #000022;
+}
+
+.link1d:visited {
+  color: #323232;
+}
+
+.rv-logo {
+  width: 165px;
+  position: absolute;
+  top: -41.5px;
+  right: -70px;
+}
+
+.tncs {
+  width: 90%;
+  background-color: #EA8685;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 50px;
+  border-radius: 80px;
+  margin-bottom: 30px;
+}
+
+.mainheading {
+  width: 90%;
+  background-color: #778beb;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 50px;
+  border-radius: 80px;
+  margin-bottom: 30px;
+}
