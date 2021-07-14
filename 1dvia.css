@@ -30,6 +30,14 @@ body {
   color: #323232;
 }
 
+.poster {
+  float: right;
+}
+
+.pcposterimg {
+  border-radius: 25px;
+}
+
 .link1d:hover {
   color: #000022;
 }
