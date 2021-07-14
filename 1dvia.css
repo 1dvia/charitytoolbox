@@ -36,6 +36,7 @@ body {
 
 .pcposterimg {
   border-radius: 25px;
+  width: 50px;
 }
 
 .link1d:hover {
